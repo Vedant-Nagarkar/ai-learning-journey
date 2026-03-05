@@ -1,7 +1,9 @@
 📓 Day 2 — Theory Notes | Decision Trees, Random Forest, Gradient Boosting & SVM
 
 1️⃣ Decision Trees
+
 What it is
+
 A model that makes decisions by asking yes/no questions about features — like a flowchart.
 Is age > 30?
 ├── YES → Is salary > 50k?
