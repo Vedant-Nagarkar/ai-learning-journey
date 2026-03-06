@@ -1,11 +1,19 @@
 1️⃣ K-Means Clustering
+
 What it is
+
 Groups data into K clusters where each point belongs to the cluster with the nearest centroid. It is unsupervised — no labels needed.
+
 Supervised   → we know the answers (classification, regression)
+
 Unsupervised → no answers given, find hidden patterns (clustering)
+
 How K-Means Works — Step by Step
+
 Step 1: Choose K (number of clusters)
+
 Step 2: Randomly place K centroids
+
 Step 3: Assign each point to nearest centroid
 Step 4: Move centroid to mean of its assigned points
 Step 5: Repeat Steps 3-4 until centroids stop moving
